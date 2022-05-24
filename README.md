@@ -32,4 +32,4 @@
 
 **Telegram:** https://t.me/celso_ubaldo
 
-**Instagram (já aviso que não adiciono ninguém):** @celso.ub
+**Instagram (já aviso que não adiciono ninguém):** `@celso.ub`
