@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+<!-- {% include title.md %} -->
 
-You can use the [editor on GitHub](https://github.com/celsou/celsou/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Sobre mim
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Quem eu sou
+- Brasileiro, paulista e itapevense
+- 20 anos
+- Técnico em Eletrotécnica
+- Estudante de Engenharia Elétrica
 
-### Markdown
+### O que eu já fiz
+- Criei o [Projeto Caracol](https://youtube.com/ProjetoCaracolOficial) 🐌
+- Ajudei no desenvolvimento do [ScadaBR 1.2](https://github.com/ScadaBR/ScadaBR/releases/tag/v1.2)
+- Criei a biblioteca [FUScaBR](https://github.com/celsou/fuscabr)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Perguntas nada frequentes (mas que responderei mesmo assim)
+- Você trabalha com o ScadaBR como freelancer?
 
-```markdown
-Syntax highlighted code block
+    **R.: Não.**
+- Você pretende lançar novas versões da FUScaBR?
 
-# Header 1
-## Header 2
-### Header 3
+    **R.: Atualmente não.** Dado que agora faço faculdade, deixei todas as coisas relacionadas a desenvolvimento (inclusive a FUScaBR) em segundo plano.
+- Você é desenvolvedor?
 
-- Bulleted
-- List
+    **R.: Não,** não tenho formação na área. Faço algumas coisas nessa parte, mas apenas por hobby.
+- Toddy ou Nescau?
 
-1. Numbered
-2. List
+    **R.: Nescau,** evidentemente.
+    
+### Contato
+**E-mail:** `celso.ubaldo@outlook.com`
 
-**Bold** and _Italic_ and `Code` text
+**Telegram:** https://t.me/celso_ubaldo
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/celsou/celsou/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Instagram (já aviso que não adiciono ninguém):** `@celso.ub`
