@@ -19,7 +19,7 @@
     **R.: Não.**
 - Você pretende lançar novas versões da FUScaBR?
 
-    **R.: Atualmente não.** Dado que agora faço faculdade deixei todas as coisas relacionadas a desenvolvimento (inclusive a FUScaBR) em segundo plano.
+    **R.: Atualmente não.** Dado que agora faço faculdade, deixei todas as coisas relacionadas a desenvolvimento (inclusive a FUScaBR) em segundo plano.
 - Você é desenvolvedor?
 
     **R.: Não,** não tenho formação na área. Faço algumas coisas nessa parte, mas apenas por hobby.
@@ -29,5 +29,7 @@
     
 ### Contato
 **E-mail:** `celso.ubaldo@outlook.com`
+
 **Telegram:** https://t.me/celso_ubaldo
+
 **Instagram (já aviso que não adiciono ninguém):** @celso.ub
