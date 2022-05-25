@@ -1,5 +1,7 @@
 # O Site do Celso
 
+{% include_relative test.html %}
+
 ## Sobre mim
 
 ### Quem eu sou
@@ -30,6 +32,6 @@
 ### Contato
 **E-mail:** `celso.ubaldo@outlook.com`
 
-**Telegram:** https://t.me/celso_ubaldo
+**Telegram:** `@celso_ubaldo`
 
 **Instagram (já aviso que não adiciono ninguém):** `@celso.ub`
