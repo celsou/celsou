@@ -9,7 +9,7 @@
 - Estudante de Engenharia Elétrica
 
 ### O que eu já fiz
-- Criei o [Projeto Caracol](https://youtube.com/ProjetoCaracolOficial) 🐌
+- Criei o [Projeto Caracol](https://youtube.com/c/ProjetoCaracolOficial) 🐌
 - Ajudei no desenvolvimento do [ScadaBR 1.2](https://github.com/ScadaBR/ScadaBR/releases/tag/v1.2)
 - Criei a biblioteca [FUScaBR](https://github.com/celsou/fuscabr)
 
