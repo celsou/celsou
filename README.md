@@ -2,11 +2,11 @@
 
 ## Sobre mim
 
-### Quem eu sou
-- Brasileiro, paulista e itapevense
-- 20 anos
+### Quem sou eu
+- 21 anos
 - Técnico em Eletrotécnica
 - Estudante de Engenharia Elétrica
+- SP -> PR
 
 ### O que eu já fiz
 - Criei o [Projeto Caracol](https://youtube.com/c/ProjetoCaracolOficial) 🐌
@@ -16,20 +16,36 @@
 ### Perguntas nada frequentes (mas que responderei mesmo assim)
 - Você trabalha com o ScadaBR como freelancer?
 
-    **R.: Não.**
+    **R.: Sim, para algumas aplicações. Confira mais abaixo.**
 - Você pretende lançar novas versões da FUScaBR?
 
-    **R.: Atualmente não.** Dado que agora faço faculdade, deixei todas as coisas relacionadas a desenvolvimento (inclusive a FUScaBR) em segundo plano.
+    **R.: Atualmente não.** Dado que agora faço faculdade, deixei várias coisas relacionadas a desenvolvimento (inclusive a FUScaBR) em segundo plano.
 - Você é desenvolvedor?
 
-    **R.: Não,** não tenho formação na área. Faço algumas coisas nessa parte, mas apenas por hobby.
+    **R.: Não,** não tenho formação acadêmica na área, embora tenha conhecimentos práticos de várias linguagens.
 - Toddy ou Nescau?
 
     **R.: Nescau,** evidentemente.
-    
+
+### Serviços
+
+#### O que eu faço ✔️
+- Ajuda com instalação e configuração do ScadaBR
+- Criação de _design_ de Telas Gráficas
+- Suporte na criação de Scripts no ScadaBR
+- Integrações ScadaBR & Telegram
+- Auxílio na configuração de dispositivos (CLPs, Esp8266, Arduino, etc)*
+- Criação de telas personalizadas e integração com banco de dados de outros sistemas
+
+***No caso de CLPs, este serviço pode ser impossibilitado pela necessidade de acesso presencial ao dispositivo.**
+
+_Para verificar disponibilidade e combinar valores, entre em contato._
+
+#### O que eu não faço ❌
+- Implantação do ScadaBR presencialmente (exceção: Ponta Grossa/Paraná, necessário combinar)
+- Treinamentos de equipes
+
 ### Contato
 **E-mail:** `celso.ubaldo@outlook.com`
 
-**Telegram:** https://t.me/celso_ubaldo
-
-**Instagram (já aviso que não adiciono ninguém):** `@celso.ub`
+**Telegram:** [@celso_ubaldo](https://t.me/celso_ubaldo)
