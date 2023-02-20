@@ -51,4 +51,4 @@ _Para verificar disponibilidade e combinar valores, entre em contato._
 
 **Telegram:** [@celso_ubaldo](https://t.me/celso_ubaldo)
 
-**Site** [celsou.github.io](https://celsou.github.io)
+**Site:** [celsou.github.io](https://celsou.github.io)
