@@ -44,8 +44,11 @@ _Para verificar disponibilidade e combinar valores, entre em contato._
 #### O que eu não faço ❌
 - Implantação do ScadaBR presencialmente (exceção: Ponta Grossa/Paraná, necessário combinar)
 - Treinamentos de equipes
+- Configuração do ScadaBR em nuvens (Amazon AWS, Google Cloud, Microsoft Azure, etc)
 
 ### Contato
 **E-mail:** `celso.ubaldo@outlook.com`
 
 **Telegram:** [@celso_ubaldo](https://t.me/celso_ubaldo)
+
+**Site** [celsou.github.io](https://celsou.github.io)
