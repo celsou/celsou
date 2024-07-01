@@ -3,7 +3,6 @@
 ## Sobre mim
 
 ### Quem sou eu
-- 21 anos
 - Técnico em Eletrotécnica
 - Estudante de Engenharia Elétrica
 - SP -> PR
